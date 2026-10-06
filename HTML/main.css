@@ -3,6 +3,13 @@ html {
 }
 
 body {
-    background-color:aqua;
-    color: coral;
+    background-color: white;
+    color: black;
 }
+
+/* .book-image {
+    display: block;
+    width: 180px;
+    height: auto;
+    margin: 0 auto 20px auto;
+} */
